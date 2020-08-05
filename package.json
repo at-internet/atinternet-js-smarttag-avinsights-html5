@@ -1,0 +1,17 @@
+{
+  "name": "atinternet-js-smarttag-avinsights-html5",
+  "version": "1.0.0",
+  "dependencies": {},
+  "keywords": [
+    "sdk",
+    "javascript",
+    "avinsights",
+    "html5",
+    "audio",
+    "video",
+    "media",
+    "events"
+  ],
+  "author": "AT Internet",
+  "license": "ISC"
+}
